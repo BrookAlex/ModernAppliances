@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "EIcycLs6j9I=",
+  "success": true,
+  "projectFilePath": "E:\\Code stuff\\Sem II SSD\\CPRG211\\Assignments\\Assignment 1\\ModernAppliances\\Samples\\Samples.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\btade\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.31\\microsoft.windowsdesktop.app.ref.6.0.31.nupkg.sha512",
+    "C:\\Users\\btade\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.31\\microsoft.netcore.app.ref.6.0.31.nupkg.sha512",
+    "C:\\Users\\btade\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.31\\microsoft.aspnetcore.app.ref.6.0.31.nupkg.sha512",
+    "C:\\Users\\btade\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.31\\microsoft.netcore.app.host.win-x64.6.0.31.nupkg.sha512"
+  ],
+  "logs": []
+}

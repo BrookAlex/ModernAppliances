@@ -1,0 +1,15 @@
+E:\Code stuff\Sem II SSD\CPRG211\Assignments\Assignment 1\ModernAppliances\A1ModernAppliances\bin\Debug\net6.0\ModernAppliances.exe
+E:\Code stuff\Sem II SSD\CPRG211\Assignments\Assignment 1\ModernAppliances\A1ModernAppliances\bin\Debug\net6.0\appliances.txt
+E:\Code stuff\Sem II SSD\CPRG211\Assignments\Assignment 1\ModernAppliances\A1ModernAppliances\bin\Debug\net6.0\ModernAppliances.deps.json
+E:\Code stuff\Sem II SSD\CPRG211\Assignments\Assignment 1\ModernAppliances\A1ModernAppliances\bin\Debug\net6.0\ModernAppliances.runtimeconfig.json
+E:\Code stuff\Sem II SSD\CPRG211\Assignments\Assignment 1\ModernAppliances\A1ModernAppliances\bin\Debug\net6.0\ModernAppliances.dll
+E:\Code stuff\Sem II SSD\CPRG211\Assignments\Assignment 1\ModernAppliances\A1ModernAppliances\bin\Debug\net6.0\ModernAppliances.pdb
+E:\Code stuff\Sem II SSD\CPRG211\Assignments\Assignment 1\ModernAppliances\A1ModernAppliances\obj\Debug\net6.0\ModernAppliances.GeneratedMSBuildEditorConfig.editorconfig
+E:\Code stuff\Sem II SSD\CPRG211\Assignments\Assignment 1\ModernAppliances\A1ModernAppliances\obj\Debug\net6.0\ModernAppliances.AssemblyInfoInputs.cache
+E:\Code stuff\Sem II SSD\CPRG211\Assignments\Assignment 1\ModernAppliances\A1ModernAppliances\obj\Debug\net6.0\ModernAppliances.AssemblyInfo.cs
+E:\Code stuff\Sem II SSD\CPRG211\Assignments\Assignment 1\ModernAppliances\A1ModernAppliances\obj\Debug\net6.0\ModernAppliances.csproj.CoreCompileInputs.cache
+E:\Code stuff\Sem II SSD\CPRG211\Assignments\Assignment 1\ModernAppliances\A1ModernAppliances\obj\Debug\net6.0\ModernAppliances.dll
+E:\Code stuff\Sem II SSD\CPRG211\Assignments\Assignment 1\ModernAppliances\A1ModernAppliances\obj\Debug\net6.0\refint\ModernAppliances.dll
+E:\Code stuff\Sem II SSD\CPRG211\Assignments\Assignment 1\ModernAppliances\A1ModernAppliances\obj\Debug\net6.0\ModernAppliances.pdb
+E:\Code stuff\Sem II SSD\CPRG211\Assignments\Assignment 1\ModernAppliances\A1ModernAppliances\obj\Debug\net6.0\ModernAppliances.genruntimeconfig.cache
+E:\Code stuff\Sem II SSD\CPRG211\Assignments\Assignment 1\ModernAppliances\A1ModernAppliances\obj\Debug\net6.0\ref\ModernAppliances.dll
